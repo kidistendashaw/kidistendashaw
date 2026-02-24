@@ -10,6 +10,8 @@
 ### 📖 About Me
 I’m a **Full-Stack Developer** building modern web applications and AI-powered solutions. I enjoy turning ideas into real, working products — from clean user interfaces to intelligent backend systems.
 
+Expertise in Dockerizing full-stack applications to ensure seamless deployment and environment consistency across development, staging, and production.
+
 I care about writing code that is simple, scalable, and meaningful. Technology, for me, is not just about building features — it’s about solving real problems.
 
 ---
